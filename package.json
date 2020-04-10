@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/bep/tech-doc-hugo/issues"
   },
-  "homepage": "https://greydongilmore.github.io/afids_protocol/",
+  "homepage": "https://greydongilmore.github.io/afids_protocol",
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^9.4.6",
