@@ -28,9 +28,9 @@ description:
 
 ### **2. PC [midline]**
 
-> **Name:** 2 <br>
-> **Description:** PC <br>
-> **Acronym:** PC
+**Name:** 2 <br>
+**Description:** PC <br>
+**Acronym:** PC
 
 * Place at the center of the commissure
 
@@ -41,9 +41,9 @@ description:
 
 ### **3. infracollicular sulcus [midline]**
 
-> **Name:** 3 <br>
-> **Description:** infracollicular sulcus <br>
-> **Acronym:** ICS
+**Name:** 3 <br>
+**Description:** infracollicular sulcus <br>
+**Acronym:** ICS
 
 * Inferior part of sulcus of inferior colliculi at the midline junction of inferior colliculi
 * Inferior most boundary of longitudinal intercollicular sulcus
@@ -55,9 +55,9 @@ description:
 
 ### **4. Pontomesencephalic junction [midline]**
 
-> **Name:** 4 <br>
-> **Description:** PMJ <br>
-> **Acronym:** PMJ
+**Name:** 4 <br>
+**Description:** PMJ <br>
+**Acronym:** PMJ
 
 * At the junction but because the junction tapers off gradually, choose the ventral/inferior/pontine side of the junction using the sagittal and coronal views
 
@@ -68,9 +68,9 @@ description:
 
 ### **5. Superior interpeduncular fossa [midline]**
 
-> **Name:** 5 <br>
-> **Description:** superior interpeduncular fossa <br>
-> **Acronym:** SIPF
+**Name:** 5 <br>
+**Description:** superior interpeduncular fossa <br>
+**Acronym:** SIPF
 
 * Most superior axial slice showing the interpeduncular fossa
 * Use coronal slice to help optimize location at boundary of 3rd ventricle and surrounding brain
@@ -83,9 +83,9 @@ description:
 
 ### **6. Right superior lateral mesencephalic sulcus**
 
-> **Name:** 6 <br>
-> **Description:** R superior LMS <br>
-> **Acronym:** RSLMS
+**Name:** 6 <br>
+**Description:** R superior LMS <br>
+**Acronym:** RSLMS
 
 * Localize using axial slices; at boundary of CSF and brain
 * Use the coronal and sagittal views to optimize the location so that this point is in the angle created in all views
@@ -97,9 +97,9 @@ description:
 
 ### **7. Left superior lateral mesencephalic sulcus**
 
-> **Name:** 7 <br>
-> **Description:** L superior LMS <br>
-> **Acronym:** LSLMS
+**Name:** 7 <br>
+**Description:** L superior LMS <br>
+**Acronym:** LSLMS
 
 * As in 6
 
@@ -110,9 +110,9 @@ description:
 
 ### **8. Right inferior lateral mesencephalic sulcus**
 
-> **Name:** 8 <br>
-> **Description:** R inferior LMS <br>
-> **Acronym:** RILMS
+**Name:** 8 <br>
+**Description:** R inferior LMS <br>
+**Acronym:** RILMS
 
 * Localize at junction between midbrain and pons first using axial slices
 * Refine positioning using sagittal view (at the change in angle of brainstem at the PMJ)
@@ -124,9 +124,9 @@ description:
 
 ### **9. Left inferior lateral mesencephalic sulcus**
 
-> **Name:** 9 <br>
-> **Description:** L inferior LMS <br>
-> **Acronym:** LILMS
+**Name:** 9 <br>
+**Description:** L inferior LMS <br>
+**Acronym:** LILMS
 
 * As in 8
 
@@ -137,9 +137,9 @@ description:
 
 ### **10. Culmen [midline]**
 
-> **Name:** 10 <br>
-> **Description:** culmen <br>
-> **Acronym:** CUL
+**Name:** 10 <br>
+**Description:** culmen <br>
+**Acronym:** CUL
 
 * Jump to AC or another midline AFID to get to the mid-sagittal slice, then place using the sagittal view
 * Most superior point of cerebellar vermis; one of the vermian lobules
@@ -152,9 +152,9 @@ description:
 
 ### **11. Intermammillary sulcus [midline]**
 
-> **Name:** 11 <br>
-> **Description:** intermammillary sulcus <br>
-> **Acronym:** IMS
+**Name:** 11 <br>
+**Description:** intermammillary sulcus <br>
+**Acronym:** IMS
 
 * Click to jump to AC landmark and place using the sagittal view 
 * Using the coronal view get to the midpoint between the mamillary bodies. 
@@ -167,9 +167,9 @@ description:
 
 ### **12. Right mammillary body**
 
-> **Name:** 12 <br>
-> **Description:** R MB <br>
-> **Acronym:** RMB
+**Name:** 12 <br>
+**Description:** R MB <br>
+**Acronym:** RMB
 
 * Place at the center of the mammillary body
 
@@ -180,9 +180,9 @@ description:
 
 ### **13. Left mamillary body**
 
-> **Name:** 13 <br>
-> **Description:** L MB <br>
-> **Acronym:** LMB
+**Name:** 13 <br>
+**Description:** L MB <br>
+**Acronym:** LMB
 
 * As in 12
 
@@ -193,9 +193,9 @@ description:
 
 ### **14. Pineal gland [midline]**
 
-> **Name:** 14 <br>
-> **Description:** pineal gland <br>
-> **Acronym:** PG
+**Name:** 14 <br>
+**Description:** pineal gland <br>
+**Acronym:** PG
 
 * Click to jump to the AC landmark on the sagittal view and place AFID in the middle of gland (use all views to correctly place this point)
 * Occasionally the pineal gland is calcified, which makes it more difficult to find the center of the gland. Be sure to scroll back and forth in all views to find the true center point regardless of asymmetry of calcifications
@@ -207,9 +207,9 @@ description:
 
 ### **15. Right lateral aspect of frontal horn at AC**
 
-> **Name:** 15 <br>
-> **Description:** R LV at AC <br>
-> **Acronym:** RLVAC
+**Name:** 15 <br>
+**Description:** R LV at AC <br>
+**Acronym:** RLVAC
 
 * Defined at same coronal slice as AC (jump to it)
 
@@ -220,9 +220,9 @@ description:
 
 ### **16. Left lateral aspect of frontal horn at AC**
 
-> **Name:** 16 <br>
-> **Description:** L LV at AC <br>
-> **Acronym:** LLVAC
+**Name:** 16 <br>
+**Description:** L LV at AC <br>
+**Acronym:** LLVAC
 
 * As in 15
 
@@ -233,9 +233,9 @@ description:
 
 ### **17. Right lateral aspect of frontal horn on at PC**
 
-> **Name:** 17 <br>
-> **Description:** R LV at PC <br>
-> **Acronym:** RLVPC
+**Name:** 17 <br>
+**Description:** R LV at PC <br>
+**Acronym:** RLVPC
 
 * Defined at same coronal slice as PC (jump to it)
 
@@ -246,9 +246,9 @@ description:
 
 ### **18. Left lateral aspect of frontal horn at PC**
 
-> **Name:** 18 <br>
-> **Description:** L LV at PC <br>
-> **Acronym:** LLVPC
+**Name:** 18 <br>
+**Description:** L LV at PC <br>
+**Acronym:** LLVPC
 
 * As in 17
 
@@ -259,9 +259,9 @@ description:
 
 ### **19. Genu of corpus callosum [midline]**
 
-> **Name:** 19 <br>
-> **Description:** genu of CC <br>
-> **Acronym:** GENU
+**Name:** 19 <br>
+**Description:** genu of CC <br>
+**Acronym:** GENU
 
 * Jump to AC and place using sagittal view
 * Optimize using coronal view as most anterior point of the corpus callosum on coronal slice.
@@ -274,9 +274,9 @@ description:
 
 ### **20. Splenium of the corpus callosum [midline]**
 
-> **Name:** 20 <br>
-> **Description:** splenium of CC <br>
-> **Acronym:** SPLE
+**Name:** 20 <br>
+**Description:** splenium of CC <br>
+**Acronym:** SPLE
 
 * Jump to AC and place using sagittal view.
 * Proceed posterior and optimize point using coronal view as the in inferior-most point on coronal section. Refine the border using axial view.
@@ -288,9 +288,9 @@ description:
 
 ### **21. Right anterolateral temporal horn**
 
-> **Name:** 21 <br>
-> **Description:** R AL temporal horn <br>
-> **Acronym:** RALTH
+**Name:** 21 <br>
+**Description:** R AL temporal horn <br>
+**Acronym:** RALTH
 
 * Jump to AC and using sagittal view locate the posterior border of AC.
 * Navigate laterally using sagittal view and locate anterior-most (and lateral) point of temporal horn.
@@ -305,9 +305,9 @@ description:
 
 ### **22. Left anterolateral temporal horn**
 
-> **Name:** 22 <br>
-> **Description:** L AL temporal horn <br>
-> **Acronym:** LALTH
+**Name:** 22 <br>
+**Description:** L AL temporal horn <br>
+**Acronym:** LALTH
 
 * As in 21
 
@@ -318,9 +318,9 @@ description:
 
 ### **23. Right superior AM temporal horn**
 
-> **Name:** 23 <br>
-> **Description:** R superior AM temporal horn <br>
-> **Acronym:** RSAMTH
+**Name:** 23 <br>
+**Description:** R superior AM temporal horn <br>
+**Acronym:** RSAMTH
 
 * alias: Rhoton's right uncal recess
 * Jump to AC, proceeding posterior while monitoring sagittal view until slice intersection is touching posterior of hypothalamus or anterior of the brainstem in sagittal view.
@@ -337,9 +337,9 @@ description:
 
 ### **24. Left superior AM temporal horn**
 
-> **Name:** 24 <br>
-> **Description:** L superior AM temporal horn <br>
-> **Acronym:** LSAMTH
+**Name:** 24 <br>
+**Description:** L superior AM temporal horn <br>
+**Acronym:** LSAMTH
 
 * alias: Rhoton's left uncal recess
 * As in 23
@@ -351,9 +351,9 @@ description:
 
 ### **25. Right inferior AM temporal horn**
 
-> **Name:** 25 <br>
-> **Description:** R inferior AM temporal horn <br>
-> **Acronym:** RIAMTH
+**Name:** 25 <br>
+**Description:** R inferior AM temporal horn <br>
+**Acronym:** RIAMTH
 
 * Jump to center of AC. Scrolling posterior while monitoring sagittal view, place pointer in the CSF in between AC and the Thalamus. Verify in the axial view that the point is in center of the CSF in that view.
 * While monitoring the coronal view, scroll laterally until the sagitall intersection reaches ventricle under the amygdaloid nuclei. The ventricle should appear in the sagittal view as a small opening at this point. 
@@ -366,9 +366,9 @@ description:
 
 ### **26. Left inferior AM temporal horn**
 
-> **Name:** 26 <br>
-> **Description:** L inferior AM temporal horn <br>
-> **Acronym:** LIAMTH
+**Name:** 26 <br>
+**Description:** L inferior AM temporal horn <br>
+**Acronym:** LIAMTH
 
 * Like in 25
 * Jump to 22 (left AL temporal horn) and scroll the find the most medial showing of the CSF
@@ -380,9 +380,9 @@ description:
 
 ### **27. Right indusium griseum origin**
 
-> **Name:** 27 <br>
-> **Description:** R indusium griseum origin <br>
-> **Acronym:** RIGO
+**Name:** 27 <br>
+**Description:** R indusium griseum origin <br>
+**Acronym:** RIGO
 
 * Defined on sagittal slice at takeoff from posterior hippocampus below splenium
 * Jump to AC. In the sagittal view place the slice intersection at the posterior border of splenium in the midline.
@@ -396,9 +396,9 @@ description:
 
 ### **28. Left indusium griseum origin**
 
-> **Name:** 28 <br>
-> **Description:** L indusium griseum origin <br>
-> **Acronym:** LIGO
+**Name:** 28 <br>
+**Description:** L indusium griseum origin <br>
+**Acronym:** LIGO
 
 * As in 27
 
@@ -409,9 +409,9 @@ description:
 
 ### **29. Right ventral occipital horn**
 
-> **Name:** 29 <br>
-> **Description:** R ventral occipital horn <br>
-> **Acronym:** RVOH
+**Name:** 29 <br>
+**Description:** R ventral occipital horn <br>
+**Acronym:** RVOH
 
 * Defined on ventral/inferior portion of last visible coronal slice with occipital horn
 * If it is hard to see on the coronal view then you can make the first placement using the axial view (make sure the view is on the right side of the brain).
@@ -424,9 +424,9 @@ description:
 
 ### **30. Left ventral occipital horn**
 
-> **Name:** 30 <br>
-> **Description:** L ventral occipital horn <br>
-> **Acronym:** LVOH
+**Name:** 30 <br>
+**Description:** L ventral occipital horn <br>
+**Acronym:** LVOH
 
 * As in 29
 
@@ -437,9 +437,9 @@ description:
 
 ### **31. Right olfactory sulcal fundus**
 
-> **Name:** 31 <br>
-> **Description:** R olfactory sulcal fundus <br>
-> **Acronym:** ROSF
+**Name:** 31 <br>
+**Description:** R olfactory sulcal fundus <br>
+**Acronym:** ROSF
 
 * Jump to Genu of Corpus Collosum (#19). 
 * Ensuring the view is on the right side of the brain, scroll back and forth in the sagittal view until you find the most anterior aspect of genu on the right hemisphere. (Typically before Genu becomes continuous with other white matter structures).
