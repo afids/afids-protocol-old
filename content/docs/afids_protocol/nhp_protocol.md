@@ -21,7 +21,7 @@ description:
 
 * Place at the center of the commissure. 
   
-<p align="center"><img src="../img/nhp/01_AC.png" alt="01_AC" width="70%"/></p>
+<a href="../img/nhp/01_AC.png" target="_blank">![](../img/nhp/01_AC.png)</a>
 
 ----------------------------
 ----------------------------
@@ -34,7 +34,7 @@ description:
 
 * Place at the center of the commissure
 
-<p align="center"><img src="../img/nhp/02_PC.png" alt="02_PC" width="70%"/></p>
+<a href="../img/nhp/02_PC.png" target="_blank">![](../img/nhp/02_PC.png)</a>
 
 ----------------------------
 ----------------------------
@@ -48,7 +48,7 @@ description:
 * Inferior part of sulcus of inferior colliculi at the midline junction of inferior colliculi
 * Inferior most boundary of longitudinal intercollicular sulcus
 
-<p align="center"><img src="../img/nhp/03_InfracollicularSulcus.png" alt="03_InfracollicularSulcus" width="70%"/></p>
+<a href="../img/nhp/03_ICS.png" target="_blank">![](../img/nhp/03_ICS.png)</a>
 
 ----------------------------
 ----------------------------
@@ -61,7 +61,7 @@ description:
 
 * At the intraventricular junction but because the junction tapers off gradually, choose the ventral/inferior/pontine side of the junction. Using the sagittal view, find the junction at midline, next verify that you are at the junction by checking the axial view.
 
-<p align="center"><img src="../img/nhp/04_PMJ.png" alt="04_PMJ" width="70%"/></p>
+<a href="../img/nhp/04_PMJ.png" target="_blank">![](../img/nhp/04_PMJ.png)</a>
 
 ----------------------------
 ----------------------------
@@ -76,7 +76,7 @@ description:
 * Use coronal slice to help optimize location at boundary of 3rd ventricle and surrounding brain
 * Commentary: useful fiducial location for DBS since subthalamic nucleus close by
 
-<p align="center"><img src="../img/nhp/05_SIPF.png" alt="05_SIPF" width="70%"/></p>
+<a href="../img/nhp/05_SIPF.png" target="_blank">![](../img/nhp/05_SIPF.png)</a>
 
 ----------------------------
 ----------------------------
@@ -91,7 +91,7 @@ description:
 * Localize using axial slices; at boundary of CSF and brain
 * Use the coronal and sagittal views to optimize the location so that this point is in the angle created in all views
 
-<p align="center"><img src="../img/nhp/06_RSLMS.png" alt="06_RSLMS" width="70%"/></p>
+<a href="../img/nhp/06_RSLMS.png" target="_blank">![](../img/nhp/06_RSLMS.png)</a>
 
 ----------------------------
 ----------------------------
@@ -104,7 +104,7 @@ description:
 
 * As in 6
 
-<p align="center"><img src="../img/nhp/07_LSLMS.png" alt="07_LSLMS" width="70%"/></p>
+<a href="../img/nhp/07_LSLMS.png" target="_blank">![](../img/nhp/07_LSLMS.png)</a>
 
 ----------------------------
 ----------------------------
@@ -120,7 +120,7 @@ description:
 * Localize at junction between midbrain and pons using axial slices
 * Refine positioning using sagittal view (at the change in angle of brainstem at the PMJ)
 
-<p align="center"><img src="../img/nhp/08_RILMS.png" alt="08_RILMS" width="70%"/></p>
+<a href="../img/nhp/08_RILMS.png" target="_blank">![](../img/nhp/08_RILMS.png)</a>
 
 ----------------------------
 ----------------------------
@@ -133,7 +133,7 @@ description:
 
 * As in 8
 
-<p align="center"><img src="../img/nhp/09_LILMS.png" alt="09_LILMS" width="70%"/></p>
+<a href="../img/nhp/09_LILMS.png" target="_blank">![](../img/nhp/09_LILMS.png)</a>
 
 ----------------------------
 ----------------------------
@@ -148,7 +148,7 @@ description:
 * Most superior point of cerebellar vermis; one of the vermian lobules
 * Axial view will allow you to choose the most superior part of the vermis; Scroll through this view while remaining in midline until you reach the apex. 
 
-<p align="center"><img src="../img/nhp/10_culmen.png" alt="10_culmen" width="70%"/></p>
+<a href="../img/nhp/10_CUL.png" target="_blank">![](../img/nhp/10_CUL.png)</a>
 
 ----------------------------
 ----------------------------
@@ -163,7 +163,7 @@ description:
 * Using the coronal view get to the midpoint between the mamillary bodies. 
 * Remember to place at the border of the grey matter. Refine this using axial view where border is most clear.
 
-<p align="center"><img src="../img/nhp/11_IMS.png" alt="11_IMS" width="70%"/></p>
+<a href="../img/nhp/11_IMS.png" target="_blank">![](../img/nhp/11_IMS.png)</a>
 
 ----------------------------
 ----------------------------
@@ -176,7 +176,7 @@ description:
 
 * Place at the center of the mammillary body
 
-<p align="center"><img src="../img/nhp/12_RMB.png" alt="12_RMB" width="70%"/></p>
+<a href="../img/nhp/12_RMB.png" target="_blank">![](../img/nhp/12_RMB.png)</a>
 
 ----------------------------
 ----------------------------
@@ -189,7 +189,7 @@ description:
 
 * As in 12
 
-<p align="center"><img src="../img/nhp/13_LMB.png" alt="13_LMB" width="70%"/></p>
+<a href="../img/nhp/13_LMB.png" target="_blank">![](../img/nhp/13_LMB.png)</a>
 
 ----------------------------
 ----------------------------
@@ -204,7 +204,7 @@ description:
 * Place AFID in the middle of gland (use all views to correctly place this point)
 * Occasionally the pineal gland is calcified, which makes it more difficult to find the center of the gland. Be sure to scroll back and forth in all views to find the true center point regardless of asymmetry of calcifications
 
-<p align="center"><img src="../img/nhp/14_PG.png" alt="14_PG" width="70%"/></p>
+<a href="../img/nhp/14_PG.png" target="_blank">![](../img/nhp/14_PG.png)</a>
 
 ----------------------------
 ----------------------------
@@ -217,7 +217,7 @@ description:
 
 * Defined at same coronal slice as AC (jump to it)
 
-<p align="center"><img src="../img/nhp/15_RLVAC.png" alt="15_RLVAC" width="70%"/></p>
+<a href="../img/nhp/15_RLVAC.png" target="_blank">![](../img/nhp/15_RLVAC.png)</a>
 
 ----------------------------
 ----------------------------
@@ -230,7 +230,7 @@ description:
 
 * As in 15
 
-<p align="center"><img src="../img/nhp/16_LLVAC.png" alt="16_LLVAC" width="70%"/></p>
+<a href="../img/nhp/16_LLVAC.png" target="_blank">![](../img/nhp/16_LLVAC.png)</a>
 
 ----------------------------
 ----------------------------
@@ -243,7 +243,7 @@ description:
 
 * Defined at same coronal slice as PC (jump to it)
 
-<p align="center"><img src="../img/nhp/17_RLVPC.png" alt="17_RLVPC" width="70%"/></p>
+<a href="../img/nhp/17_RLVPC.png" target="_blank">![](../img/nhp/17_RLVPC.png)</a>
 
 ----------------------------
 ----------------------------
@@ -256,7 +256,7 @@ description:
 
 * As in 17
 
-<p align="center"><img src="../img/nhp/18_LLVPC.png" alt="18_LLVPC" width="70%"/></p>
+<a href="../img/nhp/18_LLVPC.png" target="_blank">![](../img/nhp/18_LLVPC.png)</a>
 
 ----------------------------
 ----------------------------
@@ -271,7 +271,7 @@ description:
 * Optimize using coronal view as most anterior point of the corpus callosum on coronal slice.
 * Midline vasculatures are prominent in this region. Adjusting contrast allows for differentiation between grey matter and vessels. Refine fiducial using axial view. 
 
-<p align="center"><img src="../img/nhp/19_Genu.png" alt="19_Genu" width="70%"/></p>
+<a href="../img/nhp/19_GENU.png" target="_blank">![](../img/nhp/19_GENU.png)</a>
 
 ----------------------------
 ----------------------------
@@ -285,7 +285,7 @@ description:
 * Jump to AC and place using sagittal view.
 * Proceed posterior and optimize point using coronal view as the in inferior-most point on coronal section. Refine the border using axial view.
 
-<p align="center"><img src="../img/nhp/20_splenium.png" alt="20_splenium" width="70%"/></p>
+<a href="../img/nhp/20_SPLE.png" target="_blank">![](../img/nhp/20_SPLE.png)</a>
 
 ----------------------------
 ----------------------------
@@ -302,7 +302,7 @@ description:
 * In the coronal view this fiducial should be inferior lateral of the amygdala, while in the sagittal view it is anterior to hippocampus seperated by lateral ventricle.
 * Place at the boundary of CSF and white matter
 
-<p align="center"><img src="../img/nhp/21_RALTH.png" alt="21_RALTH" width="70%"/></p>
+<a href="../img/nhp/21_RALTH.png" target="_blank">![](../img/nhp/21_RALTH.png)</a>
 
 ----------------------------
 ----------------------------
@@ -315,7 +315,7 @@ description:
 
 * As in 21
 
-<p align="center"><img src="../img/nhp/22_LALTH.png" alt="22_LALTH" width="70%"/></p>
+<a href="../img/nhp/22_LALTH.png" target="_blank">![](../img/nhp/22_LALTH.png)</a>
 
 ----------------------------
 ----------------------------
@@ -334,7 +334,7 @@ description:
   * "narrow medially projecting space between hippocampal head & ventricular surface of amygdala located lateral to uncal apex")
 * Place at the boundary of CSF and brain
 
-<p align="center"><img src="../img/nhp/23_RSAMTH.png" alt="23_RSAMTH" width="70%"/></p>
+<a href="../img/nhp/23_RSAMTH.png" target="_blank">![](../img/nhp/23_RSAMTH.png)</a>
 
 ----------------------------
 ----------------------------
@@ -348,7 +348,7 @@ description:
 * alias: Rhoton's left uncal recess
 * As in 23
 
-<p align="center"><img src="../img/nhp/24_LSAMTH.png" alt="24_LSAMTH" width="70%"/></p>
+<a href="../img/nhp/24_LSAMTH.png" target="_blank">![](../img/nhp/24_LSAMTH.png)</a>
 
 ----------------------------
 ----------------------------
@@ -363,7 +363,7 @@ description:
 * While monitoring the coronal view, scroll laterally until the sagitall intersection reaches ventricle under the amygdaloid nuclei. The ventricle should appear in the sagittal view as a small opening at this point. 
 * Verify that the fiducial is place at the junction of the ventricle-grey matter in the axial view. 
 
-<p align="center"><img src="../img/nhp/25_RIAMTH.png" alt="25_RIAMTH" width="70%"/></p>
+<a href="../img/nhp/25_RIAMTH.png" target="_blank">![](../img/nhp/25_RIAMTH.png)</a>
 
 ----------------------------
 ----------------------------
@@ -377,7 +377,7 @@ description:
 * Like in 25
 * Jump to 22 (left AL temporal horn) and scroll the find the most medial showing of the CSF
 
-<p align="center"><img src="../img/nhp/26_LIAMTH.png" alt="26_LIAMTH" width="70%"/></p>
+<a href="../img/nhp/26_LIAMTH.png" target="_blank">![](../img/nhp/26_LIAMTH.png)</a>
 
 ----------------------------
 ----------------------------
@@ -393,7 +393,7 @@ description:
 * Begin on the sagittal view (make sure the view is on the right side), scroll back and forth to find the point where the tail of the hippocampus begins to become pointed and "takeoff"
 * Verify that the fiducial is at the junction of white and grey matter.
 
-<p align="center"><img src="../img/nhp/27_RIGO.png" alt="27_RIGO" width="70%"/></p>
+<a href="../img/nhp/27_RIGO.png" target="_blank">![](../img/nhp/27_RIGO.png)</a>
 
 ----------------------------
 ----------------------------
@@ -406,7 +406,7 @@ description:
 
 * As in 27
 
-<p align="center"><img src="../img/nhp/28_LIGO.png" alt="28_LIGO" width="70%"/></p>
+<a href="../img/nhp/28_LIGO.png" target="_blank">![](../img/nhp/28_LIGO.png)</a>
 
 ----------------------------
 ----------------------------
@@ -421,7 +421,7 @@ description:
 * If it is hard to see on the coronal view then you can make the first placement using the axial view (make sure the view is on the right side of the brain).
 * Optimize using other views
 
-<p align="center"><img src="../img/nhp/29_RVOH.png" alt="29_RVOH" width="70%"/></p>
+<a href="../img/nhp/29_RVOH.png" target="_blank">![](../img/nhp/29_RVOH.png)</a>
 
 ----------------------------
 ----------------------------
@@ -434,7 +434,7 @@ description:
 
 * As in 29
 
-<p align="center"><img src="../img/nhp/30_LVOH.png" alt="30_LVOH" width="70%"/></p>
+<a href="../img/nhp/30_LVOH.png" target="_blank">![](../img/nhp/30_LVOH.png)</a>
 
 ----------------------------
 ----------------------------
@@ -451,7 +451,7 @@ description:
 * Sulcal fundus = at depth of sulcus and boundary of gray matter-white matter
 * Posterior and most superior portion visible on axial slice
 
-<p align="center"><img src="../img/nhp/31_ROSF.png" alt="31_ROSF" width="70%"/></p>
+<a href="../img/nhp/31_ROSF.png" target="_blank">![](../img/nhp/31_ROSF.png)</a>
 
 ----------------------------
 ----------------------------
@@ -464,4 +464,4 @@ description:
 
 * As in 31
 
-<p align="center"><img src="../img/nhp/32_LOSF.png" alt="32_LOSF" width="70%"/></p>
+<a href="../img/nhp/32_LOSF.png" target="_blank">![](../img/nhp/32_LOSF.png)</a>
