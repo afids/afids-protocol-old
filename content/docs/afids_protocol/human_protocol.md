@@ -23,6 +23,8 @@ description:
 
 <p align="center"><img src="../img/human/01_AC.png" alt="01_AC" width="70%"/></p>
 
+[![](./img/human/01_AC.png)](./img/human/01_AC.png)
+
 ----------------------------
 ----------------------------
 
