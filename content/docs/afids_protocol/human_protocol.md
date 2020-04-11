@@ -48,7 +48,7 @@ description:
 * Inferior part of sulcus of inferior colliculi at the midline junction of inferior colliculi
 * Inferior most boundary of longitudinal intercollicular sulcus
 
-<p align="center"><img src="../img/human/03_InfracollicularSulcus.png" alt="03_InfracollicularSulcus" width="70%"/></p>
+<p align="center"><img src="../img/human/03_ICS.png" alt="03_ICS" width="70%"/></p>
 
 ----------------------------
 ----------------------------
@@ -145,7 +145,7 @@ description:
 * Most superior point of cerebellar vermis; one of the vermian lobules
 * Axial view will allow you to choose the most superior part of the vermis; Scroll through this view while remaining in midline until you reach the apex. 
 
-<p align="center"><img src="../img/human/10_culmen.png" alt="10_culmen" width="70%"/></p>
+<p align="center"><img src="../img/human/10_CUL.png" alt="10_CUL" width="70%"/></p>
 
 ----------------------------
 ----------------------------
@@ -267,7 +267,7 @@ description:
 * Optimize using coronal view as most anterior point of the corpus callosum on coronal slice.
 * Midline vasculatures are prominent in this region. Adjusting contrast allows for differentiation between grey matter and vessels. Refine fiducial using axial view. 
 
-<p align="center"><img src="../img/human/19_Genu.png" alt="19_Genu" width="70%"/></p>
+<p align="center"><img src="../img/human/19_GENU.png" alt="19_GENU" width="70%"/></p>
 
 ----------------------------
 ----------------------------
@@ -281,7 +281,7 @@ description:
 * Jump to AC and place using sagittal view.
 * Proceed posterior and optimize point using coronal view as the in inferior-most point on coronal section. Refine the border using axial view.
 
-<p align="center"><img src="../img/human/20_splenium.png" alt="20_splenium" width="70%"/></p>
+<p align="center"><img src="../img/human/20_SPLE.png" alt="20_SPLE" width="70%"/></p>
 
 ----------------------------
 ----------------------------
