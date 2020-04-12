@@ -5,6 +5,19 @@ weight: 6
 description: 
 ---
 
+## Preparation
+-----------
+* Download and use <a href="https://download.slicer.org/" target="_blank">3D Slicer 4.10.2</a> (for the time being **DO NOT** use version 4.11 or above)
+* Download template files
+
+|       file       |    name   |
+|------------------|-----------|
+|<a href="https://drive.google.com/open?id=1xPdnV58G0Z29bEOtF08feUdor0OSIvIa" target="_blank">D99.nii.gz</a>        |d99        |
+|<a href="https://drive.google.com/open?id=1CNNX3oGjoP8P8kkPg8Lq2oyFpRlx20L3" target="_blank">inia19.nii.gz</a>     |inia19     |
+|<a href="https://drive.google.com/open?id=1ps1xoz3eTfzA28mIKPPcDBZ6ZEbZkH9i" target="_blank">macaqueMNI.nii.gz</a> |macaqueMNI |
+|<a href="https://drive.google.com/open?id=1PMu_8sbMpjk9D6Duf9zt_2FL1NBql1qE" target="_blank">NMTv1.3.nii.gz</a>    |nmtv1.3    |
+|<a href="https://drive.google.com/open?id=1gqmxoh2k13QTfMXn2wsgsqEXPutyFRQv" target="_blank">yerkes19.nii.gz</a>   |yerkes19   |
+
 ## Anatomical Direction Guide
 --------------------------
 
@@ -116,7 +129,7 @@ description:
 **Acronym:** RILMS
 
 * Start at sagittal slices at the posterior boundry of PC.
-* Using axial section, level the slice intersection to the Pontomesencephalic Junction(3rd fiducial)
+* Using axial section, level the slice intersection to the Pontomesencephalic Junction (4th fiducial)
 * Localize at junction between midbrain and pons using axial slices
 * Refine positioning using sagittal view (at the change in angle of brainstem at the PMJ)
 
@@ -235,7 +248,7 @@ description:
 ----------------------------
 ----------------------------
 
-### **17. Right lateral aspect of frontal horn on at PC**
+### **17. Right lateral aspect of frontal horn at PC**
 
 **Name:** 17 <br>
 **Description:** R LV at PC <br>

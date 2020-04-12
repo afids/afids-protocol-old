@@ -5,13 +5,19 @@ weight: 5
 description:
 ---
 
+|       file       |    name   |
+|------------------|-----------|
+|<a href="https://drive.google.com/open?id=1v9sNG0D4-I_8ZAfxrej6_pbWlryBSKOF" target="_blank">2009bMNI.nii</a>        |2009bMNI        |
+|<a href="https://drive.google.com/open?id=16nZlF9VtgLkANfajbzrJUGHrovgYoS3_" target="_blank">PD25.nii</a>     |PD25     |
+|<a href="https://drive.google.com/open?id=1Vvc_dqrFyWXpWsmU7J4nGu6MwwNsWPno" target="_blank">UHF.nii</a> |UHF |
+
 ## Anatomical Direction Guide
 --------------------------
 
 <p align="center"><img src="../img/human/anatomical_directions_human.png" alt="anatomical_directions" width="100%"/></p>
 
-----------------------------
-----------------------------
+## Fiducials
+--------------------------
 
 ### **1. AC [midline]**
 
@@ -231,7 +237,7 @@ description:
 ----------------------------
 ----------------------------
 
-### **17. Right lateral aspect of frontal horn on at PC**
+### **17. Right lateral aspect of frontal horn at PC**
 
 **Name:** 17 <br>
 **Description:** R LV at PC <br>
