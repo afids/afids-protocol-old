@@ -8,7 +8,7 @@ description:
 ## Anatomical Direction Guide
 --------------------------
 
-<p align="center"><img src="../img/anatomical_directions.svg" alt="anatomical_directions" width="100%"/></p>
+<p align="center"><img src="../img/nhp/anatomical_directions_nhp.svg" alt="anatomical_directions" width="100%"/></p>
 
 ## Fiducials
 --------------------------
