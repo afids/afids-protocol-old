@@ -1,6 +1,6 @@
 ---
-title: "Reference"
-linkTitle: "Reference"
+title: "References"
+linkTitle: "References"
 weight: 50
 description: 
 ---
