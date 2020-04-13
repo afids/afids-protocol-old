@@ -27,7 +27,7 @@ description:
 ## Anatomical Direction Guide
 ---
 
-<p align="center"><img src="../img/human/anatomical_directions_human.png" alt="anatomical_directions" width="100%"/></p>
+<p align="center"><img src="../img/human/anatomical_directions_human.png" alt="anatomical_directions"/></p>
 
 ## Fiducials
 ---

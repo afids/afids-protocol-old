@@ -29,7 +29,7 @@ description:
 ## Anatomical Direction Guide
 ---
 
-<p align="center"><img src="../img/nhp/anatomical_directions_nhp.png" alt="anatomical_directions" width="100%"/></p>
+<p align="center"><img src="../img/nhp/anatomical_directions_nhp.png" alt="anatomical_directions"/></p>
 
 ## Fiducials
 ---
