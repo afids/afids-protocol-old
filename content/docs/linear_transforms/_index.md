@@ -1,7 +1,7 @@
 ---
 title: "Linear Transform in 3D Slicer"
 linkTitle: "Linear Transform in 3D Slicer"
-weight: 3
+weight: 20
 description: 
 type: docs
 ---

@@ -1,9 +1,13 @@
 ---
 title: "Non-human Primate"
 date: 
-weight: 6
+weight: 20
 description: 
 ---
+
+{{% pageinfo %}}
+**Prior to placing the fiducials, ensure you have run the [Linear Transform](/docs/linear_transforms/).**
+{{% /pageinfo %}}
 
 ## Preparation
 ---

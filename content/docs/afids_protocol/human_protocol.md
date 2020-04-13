@@ -1,9 +1,13 @@
 ---
 title: "Human"
 date: 
-weight: 5
+weight: 10
 description:
 ---
+
+{{% pageinfo %}}
+**Prior to placing the fiducials, ensure you have run the [Linear Transform](/docs/linear_transforms/).**
+{{% /pageinfo %}}
 
 ## Preparation
 ---
