@@ -32,7 +32,7 @@ no_list: true
 ## Naming Scheme for Fiducial Files
 ---
 
-* [VolumeID]\_[Contrast]\_[Rater]\_[N] (e.g. macaqueMNI_T1_JL_01)
+* [VolumeID]\_[Contrast]\_[Rater]\_[N] [e.g. macaqueMNI_T1_JL_01]
 
   * **[VolumeID]** = the identifier for the volume on which you are performing the fiducial placements (use the **name** given to the template in table above)
   * **[Contrast]** = T1 (all templates are T1)
