@@ -6,9 +6,12 @@ description:
 ---
 
 ## Preparation
------------
+---
+
 * Download and use <a href="https://download.slicer.org/" target="_blank">3D Slicer 4.10.2</a> (for the time being **DO NOT** use version 4.11 or above)
-* Download template files
+* Download template files:
+<br>
+<br>
 
 |       file       |    name   |
 |------------------|-----------|
@@ -17,14 +20,15 @@ description:
 |<a href="https://drive.google.com/open?id=1ps1xoz3eTfzA28mIKPPcDBZ6ZEbZkH9i" target="_blank">macaqueMNI.nii.gz</a> |macaqueMNI |
 |<a href="https://drive.google.com/open?id=1PMu_8sbMpjk9D6Duf9zt_2FL1NBql1qE" target="_blank">NMTv1.3.nii.gz</a>    |nmtv1.3    |
 |<a href="https://drive.google.com/open?id=1gqmxoh2k13QTfMXn2wsgsqEXPutyFRQv" target="_blank">yerkes19.nii.gz</a>   |yerkes19   |
+|<img width=200/>   |<img width=200/>   |
 
 ## Anatomical Direction Guide
---------------------------
+---
 
 <p align="center"><img src="../img/nhp/anatomical_directions_nhp.png" alt="anatomical_directions" width="100%"/></p>
 
 ## Fiducials
---------------------------
+---
 
 ### **1. AC [midline]**
 

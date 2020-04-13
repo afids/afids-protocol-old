@@ -10,8 +10,9 @@ type: docs
 Ensure you are using <a href="https://download.slicer.org/" target="_blank">3D Slicer 4.10.2</a>.
 {{% /pageinfo %}}
 
-Naming Scheme for Fiducial Files
---------------------------------
+## Naming Scheme for Fiducial Files
+---
+
 * [VolumeID]\_[Contrast]\_[Rater]\_[N] (e.g. macaqueMNI_T1_JL_01)
 
   * **[VolumeID]** = the identifier for the volume on which you are performing the fiducial placements (see specific protocol for naming)
@@ -19,15 +20,17 @@ Naming Scheme for Fiducial Files
   * **[Rater]** = the unique identifier for the rater performing the fiducial placement; convention will be first initial and last name to prevent overlap
   * **[N]** = reference for fiducial placement session (helpful if performing placements more than once; starting with 1)
 
-AC-PC Placement
----------------
+## AC-PC Placement
+---
+
 Download assigned volume/template from github repository. Go to Markups Module and create markups list entitled **ACPC\_[VolumeID]\_[Contrast]\_[Rater]\_[N]**. Place **AC** and **PC** landmarks:
 
 1. AC = anterior commissure (center)
 2. PC = posterior commissure (center)
 
-Create new AC-PC transform
---------------------------
+## Create new AC-PC transform
+---
+
 Create a new markups list entitled **Fid32\_[VolumeID]\_[Contrast]\_[Rater]\_[N]**. Create a new markups list entitled **midline**.
 
 To create a new AC-PC Transform you must place AC and PC fiducial markers in previous step.
