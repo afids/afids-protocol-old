@@ -2,7 +2,7 @@
 
 An open framework for evaluating correspondence in brain images and teaching neuroanatomy using anatomical fiducial placement
 
-[![AFIDs](https://raw.githubusercontent.com/afids/afids-protocol/master/figures/afids_cover_for_github.png)](./figures/afids_cover_for_github.png)
+[![AFIDs](/static/img/afids_cover_for_github.png)](./figures/afids_cover_for_github.png)
 
 Preprint: https://www.biorxiv.org/content/10.1101/460675v2
 
@@ -19,7 +19,7 @@ test
 * This protocol and study framework leverages open resources and tools, and has been developed with full transparency in mind so that others may freely use, adopt, and modify.
 * 60+ raters trained to date.
 
-![afids](figures/figure1_afids.png)
+![afids](/static/img/figure1_afids.png)
 
 ## References and Resources
 
