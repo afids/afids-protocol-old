@@ -67,7 +67,7 @@ description:
 **Acronym:** ICS
 
 * Inferior part of sulcus of inferior colliculi at the midline junction of inferior colliculi
-* Inferior most boundary of longitudinal intercollicular sulcus
+* Inferior most boundary of longitudinal (rostral-caudal) intercollicular sulcus
 
 <a href="../img/nhp/03_ICS.png" target="_blank">![](../img/nhp/03_ICS.png)</a>
 
@@ -95,7 +95,7 @@ description:
 
 * Most superior axial slice showing the interpeduncular fossa
 * Use coronal slice to help optimize location at boundary of 3rd ventricle and surrounding brain
-* Commentary: useful fiducial location for DBS since subthalamic nucleus close by
+* Commentary: useful fiducial location for deep brain stimulation (DBS) since subthalamic nucleus close by
 
 <a href="../img/nhp/05_SIPF.png" target="_blank">![](../img/nhp/05_SIPF.png)</a>
 
@@ -108,9 +108,9 @@ description:
 **Description:** R superior LMS <br>
 **Acronym:** RSLMS
 
-* Start at sagittal slices at the posterior boundry of PC.
-* Localize using axial slices; at boundary of CSF and brain
-* Use the coronal and sagittal views to optimize the location so that this point is in the angle created in all views
+* The lateral mesencephalic sulcus runs superior-to-inferior along the midbrain bilaterally. The following 4 points provide superior and inferior bounds of this sulcus superiorly and inferiorly.
+* Localize using axial slices close to the location of the superior interpeduncular fossa (5) at the boundary of CSF and brain.
+* Use the coronal and sagittal views to optimize the location so that the point at the depth of this sulcus is best approximated. Note: In NHP, the superior LMS is just inferior and medial to the capsule of the medial geniculate nucleus.
 
 <a href="../img/nhp/06_RSLMS.png" target="_blank">![](../img/nhp/06_RSLMS.png)</a>
 
@@ -136,10 +136,10 @@ description:
 **Description:** R inferior LMS <br>
 **Acronym:** RILMS
 
-* Start at sagittal slices at the posterior boundry of PC.
-* Using axial section, level the slice intersection to the Pontomesencephalic Junction (4th fiducial)
-* Localize at junction between midbrain and pons using axial slices
+* Using the axial view, level the slice intersection to the Pontomesencephalic Junction (4th fiducial) as a starting point
+* Localize at junction between midbrain and pons using the axial slices
 * Refine positioning using sagittal view (at the change in angle of brainstem at the PMJ)
+* Note: The inferior LMS should be continuous with the superior LMS when scrolling through the axial images since they are part of the same sulcus.
 
 <a href="../img/nhp/08_RILMS.png" target="_blank">![](../img/nhp/08_RILMS.png)</a>
 
@@ -166,7 +166,7 @@ description:
 **Acronym:** CUL
 
 * Jump to AC or another midline AFID to get to the mid-sagittal slice, then place using the sagittal view
-* Most superior point of cerebellar vermis; one of the vermian lobules
+* Most superior point of cerebellar vermis (one of the vermian lobules)
 * Axial view will allow you to choose the most superior part of the vermis; Scroll through this view while remaining in midline until you reach the apex. 
 
 <a href="../img/nhp/10_CUL.png" target="_blank">![](../img/nhp/10_CUL.png)</a>
@@ -222,7 +222,7 @@ description:
 **Acronym:** PG
 
 * Click to jump to the AC landmark on the sagittal view and localize the most superior border of AC on sagittal view, then proceed to go posterior until past PC.
-* Place AFID in the middle of gland (use all views to correctly place this point)
+* Place AFID in the middle of gland (use all views to correctly place this point). This can be challenging if the pineal gland is elongated, but approximate the middle as best possible.
 * Occasionally the pineal gland is calcified, which makes it more difficult to find the center of the gland. Be sure to scroll back and forth in all views to find the true center point regardless of asymmetry of calcifications
 
 <a href="../img/nhp/14_PG.png" target="_blank">![](../img/nhp/14_PG.png)</a>
@@ -263,6 +263,7 @@ description:
 **Acronym:** RLVPC
 
 * Defined at same coronal slice as PC (jump to it)
+* The ventricle is often curved so choose a location that is maximally superior and lateral.
 
 <a href="../img/nhp/17_RLVPC.png" target="_blank">![](../img/nhp/17_RLVPC.png)</a>
 
@@ -318,9 +319,10 @@ description:
 **Acronym:** RALTH
 
 * Jump to AC and using sagittal view locate the posterior border of AC.
-* Navigate laterally using sagittal view and locate anterior-most (and lateral) point of temporal horn.
+* In the coronal view, this fiducial should be inferior and lateral to the amygdala.
+* In the sagittal view, it is anterior to hippocampus separated by the CSF of the temporal horn of the lateral ventricle.
+* In the axial view, it is the anterolateral most point of the temporal horn.
 * Choose a more ventral/inferior point on the coronal view.
-* In the coronal view this fiducial should be inferior lateral of the amygdala, while in the sagittal view it is anterior to hippocampus seperated by lateral ventricle.
 * Place at the boundary of CSF and white matter
 
 <a href="../img/nhp/21_RALTH.png" target="_blank">![](../img/nhp/21_RALTH.png)</a>
@@ -347,12 +349,13 @@ description:
 **Description:** R superior AM temporal horn <br>
 **Acronym:** RSAMTH
 
-* alias: Rhoton's right uncal recess
-* Jump to AC, proceeding posterior while monitoring sagittal view until slice intersection is touching posterior of hypothalamus or anterior of the brainstem in sagittal view.
+* Note: there are both superior and inferior anteromedial (AM) temporal horn fiducials.
+* In the coronal view, the superior AM temporal horn is located superior to the head of the hippocampus at the level of the optic tract.
+* In the axial view, it is situated in the uncus and bounded anteriorly by the amygdala and posteriorly by the hippocampus.
 * Proceed lateral while monitoring the coronal view. Place fiducial at the superior hippocampal-amygdalar transition area (HATA). Verify in the axial view.
 * NOTE: there is also an inferior anteromedial temporal horn
-* Rhoton's uncal recess:
-  * "narrow medially projecting space between hippocampal head & ventricular surface of amygdala located lateral to uncal apex")
+
+* * alias: Rhoton's uncal recess: "narrow medially projecting space between hippocampal head & ventricular surface of amygdala located lateral to uncal apex"
 * Place at the boundary of CSF and brain
 
 <a href="../img/nhp/23_RSAMTH.png" target="_blank">![](../img/nhp/23_RSAMTH.png)</a>
@@ -380,8 +383,9 @@ description:
 **Description:** R inferior AM temporal horn <br>
 **Acronym:** RIAMTH
 
-* Jump to center of AC. Scrolling posterior while monitoring sagittal view, place pointer in the CSF in between AC and the Thalamus. Verify in the axial view that the point is in center of the CSF in that view.
-* While monitoring the coronal view, scroll laterally until the sagitall intersection reaches ventricle under the amygdaloid nuclei. The ventricle should appear in the sagittal view as a small opening at this point. 
+* In the coronal view, the inferior AM temporal horn is located inferior to the amygdala.
+* In the axial view, it is bounded anteriorly by the amygdala and posteriorly by the hippocampus.
+* In the sagittal view, it is bounded posteriorly by the hippocampal head and amygdala. The ventricle should appear in the sagittal view as a small opening at this point.
 * Verify that the fiducial is place at the junction of the ventricle-grey matter in the axial view. 
 
 <a href="../img/nhp/25_RIAMTH.png" target="_blank">![](../img/nhp/25_RIAMTH.png)</a>
@@ -409,10 +413,11 @@ description:
 **Description:** R indusium griseum origin <br>
 **Acronym:** RIGO
 
-* Defined on sagittal slice at takeoff from posterior hippocampus below splenium
-* Jump to AC. In the sagittal view place the slice intersection at the posterior border of splenium in the midline.
-* Begin on the sagittal view (make sure the view is on the right side), scroll back and forth to find the point where the tail of the hippocampus begins to become pointed and "takeoff"
+* The indusium griseum is also known as the "supracommissural" portion of the hippocampus running along the dorsal part of the corpus callosum. The objective with this fiducial is to identify its origin. This is where it diverges from the hippocampus proper.
+* On the sagittal view, this is the point where gray matter separate from the hippocampus proper begins to "takeoff" below splenium and becomes pointed.
+* On the coronal view, with high resolution images like the NMTv1.3 template, there is a sharp change in the gray matter thickness of the posterior hippocampus proper (thinner) and where it transitions to the indusium griseum (thicker). This sharp change is the location of the indusium griseum origin.
 * Verify that the fiducial is at the junction of white and grey matter.
+* Other pointers: The indusium griseum is bounded on the sagittal and coronal views by the posterior-inferior edge of the atrium of the lateral ventricle.
 
 <a href="../img/nhp/27_RIGO.png" target="_blank">![](../img/nhp/27_RIGO.png)</a>
 
@@ -438,7 +443,7 @@ description:
 **Description:** R ventral occipital horn <br>
 **Acronym:** RVOH
 
-* Defined on ventral/inferior portion of last visible coronal slice with occipital horn
+* Best defined in the coronal view at the ventral/inferior portion of the occipital horn (try to choose the last coronal slice in which this feature is visible to ensure point delimits the posterior most margin of the occipital horn possible)
 * If it is hard to see on the coronal view then you can make the first placement using the axial view (make sure the view is on the right side of the brain).
 * Optimize using other views
 
@@ -466,11 +471,10 @@ description:
 **Description:** R olfactory sulcal fundus <br>
 **Acronym:** ROSF
 
-* Jump to Genu of Corpus Collosum (#19). 
-* Ensuring the view is on the right side of the brain, scroll back and forth in the sagittal view until you find the most anterior aspect of genu on the right hemisphere. (Typically before Genu becomes continuous with other white matter structures).
-* Monitoring the axial view proceed ventral until the fundas is reached. Verify using the coronal view.
-* Sulcal fundus = at depth of sulcus and boundary of gray matter-white matter
-* Posterior and most superior portion visible on axial slice
+* This fiducial is close to the genu of the corpus collosum (#19). 
+* Scroll back and forth in the sagittal view until you find the most anterior aspect of genu on the right hemisphere. (Typically before genu becomes continuous with other white matter structures). Note: ensure you are on the appropriate hemisphere (in this case the right).
+* In the coronal view, verify that the point is placed at the sulcal fundus (i.e. at the depth of sulcus and at the boundary of gray matter-white matter).
+* Note: One helpful pointer is to consider the olfactory sulcal fundus relative to the anterior skull base. This feature is much easier to place in humans because the anterior skull base is flat, while in macaques the skull base in angled (in an anterosuperior to posterioinferior direction).
 
 <a href="../img/nhp/31_ROSF.png" target="_blank">![](../img/nhp/31_ROSF.png)</a>
 
