@@ -474,7 +474,7 @@ description:
 * This fiducial is close to the genu of the corpus collosum (#19). 
 * Scroll back and forth in the sagittal view until you find the most anterior aspect of genu on the right hemisphere. (Typically before genu becomes continuous with other white matter structures). Note: ensure you are on the appropriate hemisphere (in this case the right).
 * In the coronal view, verify that the point is placed at the sulcal fundus (i.e. at the depth of sulcus and at the boundary of gray matter-white matter).
-* Note: One helpful pointer is to consider the olfactory sulcal fundus relative to the anterior skull base. This feature is much easier to place in humans because the anterior skull base is flat, while in macaques the skull base in angled (in an anterosuperior to posterioinferior direction). With this adjustment in mind, place the fiducial at the posterior and superior aspect of the apex.
+* Note: One helpful pointer is to consider the olfactory sulcal fundus relative to the anterior skull base. This feature is much easier to place in humans because the anterior skull base is flat, while in macaques the skull base in angled (in an anterosuperior to posterioinferior direction). With this adjustment in mind, place the fiducial at the posterior and superior aspect of the apex (in the sagittal view) then reoptimize in the other views as necessary.
 
 <a href="../img/nhp/31_ROSF.png" target="_blank">![](../img/nhp/31_ROSF.png)</a>
 
