@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "AFIDS Protocol"
+title = "AFIDS Project"
 
 enableRobotsTXT = true
 
@@ -78,7 +78,7 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://github.com/afids"
+url_latest_version = "https://github.com/afids/afids-protocol"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 github_repo = "https://github.com/afids/afids-protocol"
