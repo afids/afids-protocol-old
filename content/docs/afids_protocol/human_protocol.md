@@ -162,7 +162,7 @@ description:
 
 * Jump to AC or another midline AFID to get to the mid-sagittal slice, then place using the sagittal view
 * Most superior point of cerebellar vermis; one of the vermian lobules
-* Axial view will allow you to choose the most superior part of the vermis; Scroll through this view while remaining in midline until you reach the apex. 
+* The axial view is helpful for refining placement at the apex.
 
 <a href="../img/human/10_CUL.png" target="_blank">![](../img/human/10_CUL.png)</a>
 
@@ -176,8 +176,8 @@ description:
 **Acronym:** IMS
 
 * Click to jump to AC landmark and place using the sagittal view 
-* Using the coronal view get to the midpoint between the mamillary bodies. 
-* Remember to place at the border of the grey matter. Refine this using axial view where border is most clear.
+* Midpoint between the mamillary bodies; place at the border of the grey matter
+* Refine placement using axial and coronal views.
 
 <a href="../img/human/11_IMS.png" target="_blank">![](../img/human/11_IMS.png)</a>
 
@@ -284,7 +284,7 @@ description:
 
 * Jump to AC and place using sagittal view
 * Optimize using coronal view as most anterior point of the corpus callosum on coronal slice.
-* Midline vasculatures are prominent in this region. Adjusting contrast allows for differentiation between grey matter and vessels. Refine fiducial using axial view. 
+* Midline vessels (anterior cerebral arteries) may be prominent in this region. Adjusting contrast allows for differentiation between grey matter and vessels. Refine using the axial view. 
 
 <a href="../img/human/19_GENU.png" target="_blank">![](../img/human/19_GENU.png)</a>
 
@@ -298,7 +298,8 @@ description:
 **Acronym:** SPLE
 
 * Jump to AC and place using sagittal view.
-* Proceed posterior and optimize point using coronal view as the in inferior-most point on coronal section. Refine the border using axial view.
+* Placement at inferior most point of the splenium at boundary with CSF.
+* Optimize point using coronal and axial views.
 
 <a href="../img/human/20_SPLE.png" target="_blank">![](../img/human/20_SPLE.png)</a>
 
@@ -311,11 +312,10 @@ description:
 **Description:** R AL temporal horn <br>
 **Acronym:** RALTH
 
-* Jump to AC and using sagittal view locate the posterior border of AC.
-* Navigate laterally using sagittal view and locate anterior-most (and lateral) point of temporal horn.
-* Choose a more ventral/inferior point on the coronal view.
-* In the coronal view this fiducial should be inferior lateral of the amygdala, while in the sagittal view it is anterior to hippocampus seperated by lateral ventricle.
-* Place at the boundary of CSF and white matter
+* Place using coronal view as the anterior-most (and lateral) point of temporal horn
+* Choose a more ventral/inferior point on the coronal view where it is inferior and lateral to the amygdala.
+* Navigate laterally using sagittal view and locate anterior-most (and lateral) point of temporal horn where it is anterior to the hippocampus separated by CSF in the lateral ventricle.
+* Place at the boundary of CSF and brain
 
 <a href="../img/human/21_RALTH.png" target="_blank">![](../img/human/21_RALTH.png)</a>
 
@@ -341,12 +341,13 @@ description:
 **Description:** R superior AM temporal horn <br>
 **Acronym:** RSAMTH
 
-* alias: Rhoton's right uncal recess
-* Jump to AC, proceeding posterior while monitoring sagittal view until slice intersection is touching posterior of hypothalamus or anterior of the brainstem in sagittal view.
+* Note: there are both superior and inferior anteromedial (AM) temporal horn fiducials.
+* In the coronal view, the superior AM temporal horn is located superior to the head of the hippocampus at the level of the optic tract.
+* In the axial view, it is situated in the uncus and bounded anteriorly by the amygdala and posteriorly by the hippocampus.
 * Proceed lateral while monitoring the coronal view. Place fiducial at the superior hippocampal-amygdalar transition area (HATA). Verify in the axial view.
 * NOTE: there is also an inferior anteromedial temporal horn
-* Rhoton's uncal recess:
-  * "narrow medially projecting space between hippocampal head & ventricular surface of amygdala located lateral to uncal apex")
+
+* * alias: Rhoton's uncal recess: "narrow medially projecting space between hippocampal head & ventricular surface of amygdala located lateral to uncal apex"
 * Place at the boundary of CSF and brain
 
 <a href="../img/human/23_RSAMTH.png" target="_blank">![](../img/human/23_RSAMTH.png)</a>
@@ -374,8 +375,9 @@ description:
 **Description:** R inferior AM temporal horn <br>
 **Acronym:** RIAMTH
 
-* Jump to center of AC. Scrolling posterior while monitoring sagittal view, place pointer in the CSF in between AC and the Thalamus. Verify in the axial view that the point is in center of the CSF in that view.
-* While monitoring the coronal view, scroll laterally until the sagitall intersection reaches ventricle under the amygdaloid nuclei. The ventricle should appear in the sagittal view as a small opening at this point. 
+* In the coronal view, the inferior AM temporal horn is located inferior to the amygdala.
+* In the axial view, it is bounded anteriorly by the amygdala and posteriorly by the hippocampus.
+* In the sagittal view, it is bounded posteriorly by the hippocampal head and amygdala. The ventricle should appear in the sagittal view as a small opening at this point.
 * Verify that the fiducial is place at the junction of the ventricle-grey matter in the axial view. 
 
 <a href="../img/human/25_RIAMTH.png" target="_blank">![](../img/human/25_RIAMTH.png)</a>
@@ -403,10 +405,10 @@ description:
 **Description:** R indusium griseum origin <br>
 **Acronym:** RIGO
 
-* Defined on sagittal slice at takeoff from posterior hippocampus below splenium
-* Jump to AC. In the sagittal view place the slice intersection at the posterior border of splenium in the midline.
-* Begin on the sagittal view (make sure the view is on the right side), scroll back and forth to find the point where the tail of the hippocampus begins to become pointed and "takeoff"
+* The indusium griseum is also known as the "supracommissural" portion of the hippocampus running along the dorsal part of the corpus callosum. The objective with this fiducial is to identify its origin. This is where it diverges from the hippocampus proper.
+* On the sagittal view, this is the point where gray matter separate from the hippocampus proper begins to "takeoff" below splenium and becomes pointed.
 * Verify that the fiducial is at the junction of white and grey matter.
+* Other pointers: The indusium griseum is bounded on the sagittal and coronal views by the posterior-inferior edge of the atrium of the lateral ventricle.
 
 <a href="../img/human/27_RIGO.png" target="_blank">![](../img/human/27_RIGO.png)</a>
 
@@ -432,7 +434,7 @@ description:
 **Description:** R ventral occipital horn <br>
 **Acronym:** RVOH
 
-* Defined on ventral/inferior portion of last visible coronal slice with occipital horn
+* Best defined in the coronal view at the ventral/inferior portion of the occipital horn (try to choose the last coronal slice in which this feature is visible to ensure point delimits the posterior most margin of the occipital horn possible)
 * If it is hard to see on the coronal view then you can make the first placement using the axial view (make sure the view is on the right side of the brain).
 * Optimize using other views
 
@@ -460,9 +462,9 @@ description:
 **Description:** R olfactory sulcal fundus <br>
 **Acronym:** ROSF
 
-* Jump to Genu of Corpus Collosum (#19). 
-* Ensuring the view is on the right side of the brain, scroll back and forth in the sagittal view until you find the most anterior aspect of genu on the right hemisphere. (Typically before Genu becomes continuous with other white matter structures).
-* Monitoring the axial view proceed ventral until the fundas is reached. Verify using the coronal view.
+* This fiducial is close to the Genu of Corpus Collosum (#19).
+* Scroll back and forth in the sagittal view until you find the most anterior aspect of genu on the right hemisphere. (Typically before genu becomes continuous with other white matter structures). Note: ensure you are on the appropriate hemisphere (in this case the right).
+* Monitoring the axial view proceed ventral until the fundus is reached. Verify using the coronal view.
 * Sulcal fundus = at depth of sulcus and boundary of gray matter-white matter
 * Posterior and most superior portion visible on axial slice
 
