@@ -11,7 +11,7 @@ Manuscript: http://dx.doi.org/10.1002/hbm.24693
 Documentation: https://afids.readthedocs.io/en/latest/
 
 Join our channel on  <a href="https://mattermost.brainhack.org/brainhack/channels/afids" target="_blank"><img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px /></a>
-test
+
 ## Introduction
 
 * The [AFID protocol](protocol.md) is an anatomical fiducial placement protocol that has been validated and used for teaching at a number of local and BHG-related events including https://github.com/BrainhackWestern/BrainhackWestern.github.io/wiki/Tutorials.
