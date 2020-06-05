@@ -20,12 +20,13 @@ With the central aim of fulfilling the chief requirements for analyzing the neur
 AFIDs assissts you in a way to achieve those by identifying the best spatial normalization as required. 
 In pursuance to providing a quantitative report of spatial correspondence between structural magnetic resonance images
 of the brain, AFIDs acts as complementary to segmentation‐based metrics,  using more intuitive distance‐based measures of
-alignment. Enabling reproducibility acrross sites and centers using the protocols, AFIDs has proven its utility 
+alignment. Enabling reproducibility across sites and centres using the protocols, AFIDs has proven its utility 
 and accessibility as an Open Framework with one of the main motives of exentending the teaching resources in the sphere of
 neuroanatomy using anatomical fiducial placement.
 Referencing the protocols for evaluating subject‐to‐template and template‐to‐template registration, 
-AFIDs has proven to be sensitive to focal misregistrations that may be missed using other commonly used evaluation methods, 
-which helps it to have its valuable place in a broader number of applications including intersubject alignment and teaching neuroanatomy.
+AFIDs had manifested to be sensitive to focal misregistrations that may be missed using other commonly used evaluation methods, 
+which helps it to have its valuable place in neuroanatomy.
+AFIDs are helpful to keep with the alignment of the irregularities present in the anoatomic structures consequently providing the detailed and accurate anatomical description thereby helping to develop a mental model of neuroanatomy. 
 
 ## Ready to get started?
 
