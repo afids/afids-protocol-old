@@ -5,9 +5,9 @@ weight: 50
 description: 
 ---
 
-## Peer-Reviewed Publication
+## Peer-Reviewed Manuscript
 ---
-* Lau JC, Parrent AG, Demarco J, Gupta G, Park PJ, Ferko K, Khan AR, Peters TM. A framework for evaluating correspondence between brain images using anatomical fiducials. bioRxiv. 2018. [<a href="http://dx.doi.org/10.1002/hbm.24693" target="_blank">ref1</a>]
+* Lau JC, Parrent AG, Demarco J, Gupta G, Park PJ, Ferko K, Khan AR, Peters TM. A framework for evaluating correspondence between brain images using anatomical fiducials. Human Brain Mapping. 2019. [<a href="http://dx.doi.org/10.1002/hbm.24693" target="_blank">ref1</a>]
 
 
 ## Associated Preprint
@@ -48,11 +48,11 @@ description:
 ## Other Resources
 ---
 
-* [<a href="https://github.com/jclauneuro/BHG18_afidprotocol" target="_blank">Website</a>] for the AFID protocol as taught as a training workshop for BHG18
+* BrainHack Global 2018:
+  * <a href="https://github.com/jclauneuro/BHG18_afidprotocol" target="_blank">Training Workshop</a> details
+  * <a href="https://github.com/BrainhackWestern/BrainhackWestern.github.io/wiki/Tutorials" target="_blank">Tutorial</a> and associated [<a href="https://www.youtube.com/watch?v=huGtd19_uiM" target="_blank">video</a>]
 
-* <a href="https://github.com/BrainhackWestern/BrainhackWestern.github.io/wiki/Tutorials" target="_blank">Tutorial</a> given as part of BHG18 [<a href="https://www.youtube.com/watch?v=huGtd19_uiM" target="_blank">video</a>]
-
-* Download <a href="http://slicer.kitware.com/midas3/folder/4989" target="_blank">3D Slicer 4.10.2</a>
+* <a href="https://www.slicer.org" target="_blank">3D Slicer</a> (use version 3.10.2)
 
 * <a href="http://afids-validator.herokuapp.com" target="_blank">AFIDs-validator</a>; started at <a href="https://github.com/BrainhackWestern/BrainhackWestern.github.io/wiki/projects#landmark-validator" target="_blank">BHG18-Western</a>; also see the associated OHBM2020 poster.
 
