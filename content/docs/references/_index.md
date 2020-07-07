@@ -5,15 +5,22 @@ weight: 50
 description: 
 ---
 
-## Preprint
+## Peer-Reviewed Publication
+---
+* Lau JC, Parrent AG, Demarco J, Gupta G, Park PJ, Ferko K, Khan AR, Peters TM. A framework for evaluating correspondence between brain images using anatomical fiducials. bioRxiv. 2018. [<a href="http://dx.doi.org/10.1002/hbm.24693" target="_blank">ref1</a>]
+
+
+## Associated Preprint
 ---
 
 * Lau JC, Parrent AG, Demarco J, Gupta G, Park PJ, Ferko K, Khan AR, Peters TM. A framework for evaluating correspondence between brain images using anatomical fiducials. bioRxiv. 2018. [<a href="https://www.biorxiv.org/content/early/2018/11/03/460675" target="_blank">ref1</a>]
+
 
 ## Conference Abstracts
 ---
 
 * Lau JC, Parrent AG, Demarco J, Gupta G, Park PJ, Ferko K, Khan AR, Peters TM. AFIDs: an open framework for evaluating correspondence between magnetic resonance images of the human brain using fiducial placement. F1000 Research. Demo presented at INCF NeuroInformatics in Montreal, QC, Canada. 2018. [<a href="http://dx.doi.org/10.7490/f1000research.1115895.1" target="_blank">ref2</a>]
+
 
 ## Open Datasets
 ---
@@ -47,6 +54,6 @@ description:
 
 * Download <a href="http://slicer.kitware.com/midas3/folder/4989" target="_blank">3D Slicer 4.10.2</a>
 
-* <a href="http://fidvalidator.pythonanywhere.com/vib1" target="_blank">AFID validator</a> (alpha stage); started at <a href="https://github.com/BrainhackWestern/BrainhackWestern.github.io/wiki/projects#landmark-validator" target="_blank">BHG18-Western</a>
+* <a href="http://afids-validator.herokuapp.com" target="_blank">AFIDs-validator</a>; started at <a href="https://github.com/BrainhackWestern/BrainhackWestern.github.io/wiki/projects#landmark-validator" target="_blank">BHG18-Western</a>; also see the associated OHBM2020 poster.
 
-* <a href="https://scicrunch.org/scicrunch/Resources/record/nlx_144509-1/SCR_016623/resolver" target="_blank">Scicrunch</a> (RRID:SCR_016623)_
+* <a href="https://scicrunch.org/scicrunch/Resources/record/nlx_144509-1/SCR_016623/resolver" target="_blank">Scicrunch</a> (RRID:SCR_016623)
